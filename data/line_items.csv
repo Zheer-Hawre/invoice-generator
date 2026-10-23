@@ -1,0 +1,6 @@
+invoice_id,client_id,issue_date,due_date,description,quantity,unit_price
+INV-001,C001,2026-10-01,2026-10-31,Website design,1,1200.00
+INV-001,C001,2026-10-01,2026-10-31,Hosting (12 months),1,240.00
+INV-002,C002,2026-10-05,2026-11-04,Logo design,1,350.00
+INV-002,C002,2026-10-05,2026-11-04,Business cards (500),2,45.50
+INV-003,C003,2026-10-10,2026-10-25,Consulting hours,6.5,80.00

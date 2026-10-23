@@ -1,0 +1,4 @@
+client_id,name,email,address
+C001,Acme Ltd,billing@acme.example,"12 Market Street, Anytown"
+C002,Brightline Studio,accounts@brightline.example,"4 Harbour Road, Anytown"
+C003,Northwind Traders,finance@northwind.example,"88 Oak Avenue, Anytown"
